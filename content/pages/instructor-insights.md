@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e3d6e168-6ceb-ba4e-103e-abe8bd7a58d7
 ---
@@ -36,20 +38,6 @@ Curriculum Information
 ### Offered
 
 *   14.11 is a topics course, and the focus of the course changes from semester to semester.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A photo of a classroom with five rows of tables and a blackboard at the front of the room.]({{< resource_file 16f3a32d-40e1-893d-de79-a88e73b77917 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture and Math TA Session
-    
-    Both lectures and math TA sessions were held in this room on the MIT campus.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

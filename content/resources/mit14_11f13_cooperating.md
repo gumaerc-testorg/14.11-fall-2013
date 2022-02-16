@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource file contains information regarding cooperate without\
   \ looking.\r\n\r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-11-insights-from-game-theory-into-social-behavior-fall-2013/724e4844563015b4566414708594061a_MIT14_11F13_cooperating.pdf
+file: /media/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/724e4844563015b4566414708594061a_MIT14_11F13_cooperating.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture slides
+parent_type: CourseSection
 resourcetype: Document
 title: Cooperate Without Looking
 uid: 724e4844-5630-15b4-5664-14708594061a

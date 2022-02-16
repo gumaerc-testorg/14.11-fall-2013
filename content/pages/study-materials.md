@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: cd76c9ed-ce81-3bc8-b033-a398eac4b6d5
 ---
@@ -13,8 +15,8 @@ Math Help
 
 [Pure strategy matrix form games and Nash Equilibria (PDF)]({{< baseurl >}}/resources/mit14_11f13_pure_strategy)
 
-MATLAB® Files
--------------
+MATLAB{{< sup "®" >}} Files
+---------------------------
 
 [Code for Evidence for learning topic (M)]({{< baseurl >}}/resources/learning_code)
 

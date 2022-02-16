@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource file contains information regarding introduction slides.\r\
   \n\r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-11-insights-from-game-theory-into-social-behavior-fall-2013/efe2e319b855a99822182a40da03a2d5_MIT14_11F13_Intro.pdf
+file: /media/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/efe2e319b855a99822182a40da03a2d5_MIT14_11F13_Intro.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture slides
+parent_type: CourseSection
 resourcetype: Document
 title: Introduction slides
 uid: efe2e319-b855-a998-2218-2a40da03a2d5

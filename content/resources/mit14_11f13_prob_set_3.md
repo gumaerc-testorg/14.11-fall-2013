@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource file contains information regarding problem set 3.\r\n\
   \r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-11-insights-from-game-theory-into-social-behavior-fall-2013/bb0ffcadd23356ebbe5a212b28906db5_MIT14_11F13_Prob_set_3.pdf
+file: /media/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/bb0ffcadd23356ebbe5a212b28906db5_MIT14_11F13_Prob_set_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 3
 uid: bb0ffcad-d233-56eb-be5a-212b28906db5

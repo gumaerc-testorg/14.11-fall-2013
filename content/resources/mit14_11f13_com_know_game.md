@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource file contains information regarding common knowledge and\
   \ global games.\r\n\r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-11-insights-from-game-theory-into-social-behavior-fall-2013/f8e551209ca455115ac63adaab72e0b2_MIT14_11F13_Com_Know_Game.pdf
+file: /media/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/f8e551209ca455115ac63adaab72e0b2_MIT14_11F13_Com_Know_Game.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture slides
+parent_type: CourseSection
 resourcetype: Document
 title: Common Knowledge AND Global Games
 uid: f8e55120-9ca4-5511-5ac6-3adaab72e0b2
