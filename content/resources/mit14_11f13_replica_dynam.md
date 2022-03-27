@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
+parent_uid: 31e3ef61-3241-3ea0-5a68-443e782a8ece
 resourcetype: Document
 title: Replicator Dynamics
 uid: 41053df6-c327-2ffa-3169-19640bdf6d58

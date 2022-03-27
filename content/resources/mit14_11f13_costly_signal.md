@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
+parent_uid: 31e3ef61-3241-3ea0-5a68-443e782a8ece
 resourcetype: Document
 title: Beauty and "Costly Signaling"
 uid: 4268cef2-1935-9feb-2ae6-1c5d611d3528

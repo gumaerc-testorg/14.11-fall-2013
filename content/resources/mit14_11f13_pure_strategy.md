@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cd76c9ed-ce81-3bc8-b033-a398eac4b6d5
 resourcetype: Document
 title: Pure strategy matrix form games and Nash Equilibria
 uid: 830f3d92-e3c7-3379-c1cd-d21f1fb18eb8

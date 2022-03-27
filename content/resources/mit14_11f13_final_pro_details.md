@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a9671d18-0e3a-a3f0-5766-47f38226c9b9
 resourcetype: Document
 title: Final Project Details
 uid: 785b7013-038f-a31d-860b-c9e6aedc360c

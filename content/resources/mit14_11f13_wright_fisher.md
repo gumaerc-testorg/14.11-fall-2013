@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
+parent_uid: 31e3ef61-3241-3ea0-5a68-443e782a8ece
 resourcetype: Document
 title: Wright-Fisher Process
 uid: 13f85c65-7aaf-6cff-84fc-10f330543b7a

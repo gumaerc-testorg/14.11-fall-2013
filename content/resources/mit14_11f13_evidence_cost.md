@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
+parent_uid: 31e3ef61-3241-3ea0-5a68-443e782a8ece
 resourcetype: Document
 title: Evidence for Costly Signaling
 uid: fdf316b8-0dc9-7147-7879-7ddae8eea2da

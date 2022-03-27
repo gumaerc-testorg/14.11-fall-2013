@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cd76c9ed-ce81-3bc8-b033-a398eac4b6d5
 resourcetype: Other
 title: wrightfisher_code.m
 uid: c7cd6431-3685-21e2-8de8-aa1117c10adb

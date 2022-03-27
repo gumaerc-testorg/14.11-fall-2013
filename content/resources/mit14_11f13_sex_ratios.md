@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
+parent_uid: 31e3ef61-3241-3ea0-5a68-443e782a8ece
 resourcetype: Document
 title: Sex Ratios and the Power of Game Theory
 uid: 9dd7c15a-b68e-191c-3cdf-1640e9c55f6a

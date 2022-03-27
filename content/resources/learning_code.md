@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cd76c9ed-ce81-3bc8-b033-a398eac4b6d5
 resourcetype: Other
 title: learning_code.m
 uid: 86c9e83c-7e4b-ce05-c9f7-68f4a9e7ddd5

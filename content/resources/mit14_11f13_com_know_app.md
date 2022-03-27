@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
+parent_uid: 31e3ef61-3241-3ea0-5a68-443e782a8ece
 resourcetype: Document
 title: 'Common Knowledge: Formalizing the Social Applications'
 uid: 885caa81-2782-6c48-d0ad-3a9193ce1035

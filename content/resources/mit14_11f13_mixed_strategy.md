@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cd76c9ed-ce81-3bc8-b033-a398eac4b6d5
 resourcetype: Document
 title: Mixed strategy matrix form games and Nash Equilibria
 uid: 8c596436-40c6-e694-62b1-e8438830cc23
