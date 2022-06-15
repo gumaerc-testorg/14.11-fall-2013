@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the slides used in course lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction slides (PDF - 1.5MB)]({{< baseurl >}}/resources/mit14_11f13_intro)
+{{% resource_link efe2e319-b855-a998-2218-2a40da03a2d5 "Introduction slides (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,9 +39,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Sex ratios slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_11f13_sex_ratios)
+{{% resource_link 9dd7c15a-b68e-191c-3cdf-1640e9c55f6a "Sex ratios slides (PDF - 1.1MB)" %}}
 
-[Sex rations handout (PDF)]({{< baseurl >}}/resources/mit14_11f13_sex_ratio_hand)
+{{% resource_link 9aeb459e-e77d-bf1d-2366-e6a54e5a7bc0 "Sex rations handout (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -53,9 +54,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Evidence for learning and relationship with Nash slides (PDF)]({{< baseurl >}}/resources/mit14_11f13_learning) 
+{{% resource_link d3f9f250-9ed2-edc7-75b2-7714ea64da66 "Evidence for learning and relationship with Nash slides (PDF)" %}} 
 
-[Learning handout (PDF)]({{< baseurl >}}/resources/mit14_11f13_learning_hand)
+{{% resource_link 53588918-339b-71ad-82d4-cfb33ae57bac "Learning handout (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -66,7 +67,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Hawk-Dove and "rights" (PDF - 2.2MB)]({{< baseurl >}}/resources/mit14_11f13_hawk_dove)
+{{% resource_link fca1386a-864e-2c16-123f-984fc3aaad57 "Hawk-Dove and \"rights\" (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +76,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Wright-Fisher process slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_11f13_wright_fisher)
+{{% resource_link 13f85c65-7aaf-6cff-84fc-10f330543b7a "Wright-Fisher process slides (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +85,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Replicator dynamics (PDF)]({{< baseurl >}}/resources/mit14_11f13_replica_dynam)
+{{% resource_link 41053df6-c327-2ffa-3169-19640bdf6d58 "Replicator dynamics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +94,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Altruism (PDF - 2.6MB)]({{< baseurl >}}/resources/mit14_11f13_altruism)
+{{% resource_link f218d9db-a61e-843d-2c45-186da3ae5af9 "Altruism (PDF - 2.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +103,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Cooperate without looking (PDF - 1.4MB)]({{< baseurl >}}/resources/mit14_11f13_cooperating)
+{{% resource_link 724e4844-5630-15b4-5664-14708594061a "Cooperate without looking (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +112,7 @@ TOPICS
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Evidence for costly signaling (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_11f13_evidence_cost)
+{{% resource_link fdf316b8-0dc9-7147-7879-7ddae8eea2da "Evidence for costly signaling (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +121,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Beauty and "costly signaling" slides (PDF)]({{< baseurl >}}/resources/mit14_11f13_costly_signal)
+{{% resource_link 4268cef2-1935-9feb-2ae6-1c5d611d3528 "Beauty and \"costly signaling\" slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,15 +132,15 @@ TOPICS
 {{< tdopen >}}
 
 
-[Common knowledge slides (PDF - 2.5MB)]({{< baseurl >}}/resources/mit14_11f13_common_know)
+{{% resource_link 3df8c4f2-b86c-6bbc-bbc3-9967ba89e801 "Common knowledge slides (PDF - 2.5MB)" %}}
 
-[Common knowledge: Formalizing the social applications slides (PDF)]({{< baseurl >}}/resources/mit14_11f13_com_know_app)
+{{% resource_link 885caa81-2782-6c48-d0ad-3a9193ce1035 "Common knowledge: Formalizing the social applications slides (PDF)" %}}
 
-[Common knowledge and global games slides (PDF)]({{< baseurl >}}/resources/mit14_11f13_com_know_game)
+{{% resource_link f8e55120-9ca4-5511-5ac6-3adaab72e0b2 "Common knowledge and global games slides (PDF)" %}}
 
-[Common knowledge: The math slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_11f13_com_know_math)
+{{% resource_link 10c255db-c8d8-d282-eff8-dadeef13144d "Common knowledge: The math slides (PDF - 1.1MB)" %}}
 
-[Wrap-Up slides (PDF)]({{< baseurl >}}/resources/mit14_11f13_wrap_up)
+{{% resource_link 06c439e8-e7be-ad3a-ce9f-42ca4631990b "Wrap-Up slides (PDF)" %}}
 
 
 {{< tdclose >}}

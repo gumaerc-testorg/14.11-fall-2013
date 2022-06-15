@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, materials, grading, and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -42,7 +44,7 @@ Advanced students may prefer Osborne's graduate text:
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650403) Osborne, Martin, J., and Ariel Rubinstein. _A Course In Game Theory_. MIT Press, 1994. ISBN: 9780262650403. \[Preview with [Google Books](http://books.google.com/books?id=5ntdaYX4LPkC&printsec=frontcover)\]
 
-Additional readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section. 
+Additional readings can be found in the {{% resource_link 8c169bbe-cca1-09b7-9f73-1141e65fbd23 "Readings" %}} section. 
 
 Grading
 -------

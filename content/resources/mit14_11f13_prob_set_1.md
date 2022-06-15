@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource file contains information regarding problem set 1.\r\n\
   \r\n"
-file: /media/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/e7ac092492c191adfbeff6ceb3480231_MIT14_11F13_Prob_set_1.pdf
+file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/e7ac092492c191adfbeff6ceb3480231_MIT14_11F13_Prob_set_1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,7 @@ resourcetype: Document
 title: Problem Set 1
 uid: e7ac0924-92c1-91ad-fbef-f6ceb3480231
 ---
+This resource file contains information regarding problem set 1.
+
+
+

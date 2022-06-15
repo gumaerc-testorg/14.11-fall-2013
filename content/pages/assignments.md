@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the assignments for the course, including four
+  problem sets, weekly referee report, the final project, and an extra credit assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,27 +12,27 @@ uid: a9671d18-0e3a-a3f0-5766-47f38226c9b9
 Problem Sets
 ------------
 
-[Problem set 1 (PDF)]({{< baseurl >}}/resources/mit14_11f13_prob_set_1)
+{{% resource_link e7ac0924-92c1-91ad-fbef-f6ceb3480231 "Problem set 1 (PDF)" %}}
 
-[Problem set 2 (PDF)]({{< baseurl >}}/resources/mit14_11f13_prob_set_2)
+{{% resource_link 53c9d294-52a9-be77-4fdf-3b9e9a393914 "Problem set 2 (PDF)" %}}
 
-[Problem set 3 (PDF)]({{< baseurl >}}/resources/mit14_11f13_prob_set_3)
+{{% resource_link bb0ffcad-d233-56eb-be5a-212b28906db5 "Problem set 3 (PDF)" %}}
 
-[Problem set 4 (PDF)]({{< baseurl >}}/resources/mit14_11f13_prob_set_4)
+{{% resource_link 44311b09-39c9-a47b-6337-cd732f538562 "Problem set 4 (PDF)" %}}
 
 Referee Reports
 ---------------
 
-[Referee report details (PDF)]({{< baseurl >}}/resources/mit14_11f13_refere_rep_det)
+{{% resource_link fd171105-c6fa-c05e-93ea-90e9f77b7d64 "Referee report details (PDF)" %}}
 
 Final Project
 -------------
 
-[Final project details (PDF)]({{< baseurl >}}/resources/mit14_11f13_final_pro_details)
+{{% resource_link 785b7013-038f-a31d-860b-c9e6aedc360c "Final project details (PDF)" %}}
 
-[Final project guide (PDF)]({{< baseurl >}}/resources/mit14_11f13_fina_pro_guide)
+{{% resource_link d06fe017-6b58-c2e0-59d1-d513d74915ef "Final project guide (PDF)" %}}
 
 Extra Credit Assignment
 -----------------------
 
-[Extra Credit Details (PDF)]({{< baseurl >}}/resources/mit14_11f13_ext_credit_det)
+{{% resource_link 2c0f2414-c249-df79-c8f2-497f45e87098 "Extra Credit Details (PDF)" %}}

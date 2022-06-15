@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/b6a3814964b5189f1412e1b1b4ef6951_14-11_stat-students.png
+file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/b6a3814964b5189f1412e1b1b4ef6951_14-11_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
