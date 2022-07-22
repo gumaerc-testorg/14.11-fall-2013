@@ -6,6 +6,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/fd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: Evidence for Costly Signaling
 uid: fdf316b8-0dc9-7147-7879-7ddae8eea2da
 ---
 This resource file contains information regarding evidence for costly signaling.
-
-
 

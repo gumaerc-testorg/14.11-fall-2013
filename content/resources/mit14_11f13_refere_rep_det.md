@@ -6,6 +6,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/fd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: Referee report details
 uid: fd171105-c6fa-c05e-93ea-90e9f77b7d64
 ---
 This resource file contains information regarding referee report details.
-
-
 

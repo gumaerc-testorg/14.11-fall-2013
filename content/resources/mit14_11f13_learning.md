@@ -6,6 +6,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/d3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: Evidence for Learning and Relationship with Nash
 uid: d3f9f250-9ed2-edc7-75b2-7714ea64da66
 ---
 This resource file contains information regarding evidence for learning and relationship with nash.
-
-
 

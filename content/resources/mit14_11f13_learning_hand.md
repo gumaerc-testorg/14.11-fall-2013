@@ -6,6 +6,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/53
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: Paths to Learning
 uid: 53588918-339b-71ad-82d4-cfb33ae57bac
 ---
 This resource file contains information regarding paths to learning.
-
-
 

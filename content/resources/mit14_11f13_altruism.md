@@ -5,6 +5,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/f2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
@@ -14,6 +15,4 @@ title: Altruism
 uid: f218d9db-a61e-843d-2c45-186da3ae5af9
 ---
 This resource file contains information regarding altruism.
-
-
 

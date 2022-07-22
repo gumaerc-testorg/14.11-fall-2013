@@ -6,6 +6,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/e7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: Problem Set 1
 uid: e7ac0924-92c1-91ad-fbef-f6ceb3480231
 ---
 This resource file contains information regarding problem set 1.
-
-
 

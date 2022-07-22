@@ -6,6 +6,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/fc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: Hawk Dove and "Rights"
 uid: fca1386a-864e-2c16-123f-984fc3aaad57
 ---
 This resource file contains information regarding hawk dove and "rights".
-
-
 

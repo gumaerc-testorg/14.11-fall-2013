@@ -6,6 +6,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/2c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: Extra Credit Assignment
 uid: 2c0f2414-c249-df79-c8f2-497f45e87098
 ---
 This resource file contains information regarding extra credit assignment.
-
-
 

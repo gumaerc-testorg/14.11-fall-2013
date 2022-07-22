@@ -6,6 +6,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/10
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: 'Common Knowledge: The Math'
 uid: 10c255db-c8d8-d282-eff8-dadeef13144d
 ---
 This resource file contains information regarding common knowledge: the math.
-
-
 

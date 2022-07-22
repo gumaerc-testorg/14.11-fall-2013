@@ -6,6 +6,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/88
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Common Knowledge: Formalizing the Social Applications'
 uid: 885caa81-2782-6c48-d0ad-3a9193ce1035
 ---
 This resource file contains information regarding common knowledge: formalizing the social applications.
-

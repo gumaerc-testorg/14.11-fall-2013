@@ -6,6 +6,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/9d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: Sex Ratios and the Power of Game Theory
 uid: 9dd7c15a-b68e-191c-3cdf-1640e9c55f6a
 ---
 This resource file contains information regarding sex ratios and the power of game theory.
-
-
 

@@ -5,6 +5,7 @@ file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/06
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture slides
 parent_type: CourseSection
@@ -14,6 +15,4 @@ title: Wrap-Up
 uid: 06c439e8-e7be-ad3a-ce9f-42ca4631990b
 ---
 This resource file contains information regarding wrap-up.
-
-
 
