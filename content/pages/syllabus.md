@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, materials, grading, and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 52d084b3-294f-20f2-998c-9d047566d4eb
 ---
@@ -18,7 +22,7 @@ We will apply insights from game theory to explain human social behavior, focusi
 
 We will employ standard games such as the prisoners dilemma, coordination, hawk-dove, and costly signaling, and use standard game theory tools such as Nash Equilibria, Subgame Perfection, and Perfect Bayesian Equilibria. These tools will be taught from scratch and no existing knowledge of game theory, economics, or mathematics is required. At the same time, students familiar with these games and tools will not find the course redundant because of the focus on non-orthodox applications.
 
-In order to apply game theory to social applications, we will also introduce models of learning and evolution, employing mathematical techniques such as first order differential equations and Markov Chains, as well as simple computer simulations in MATLAB®. These, too, will be taught from scratch; no prior experience with differential equations or computer programming is required.
+In order to apply game theory to social applications, we will also introduce models of learning and evolution, employing mathematical techniques such as first order differential equations and Markov Chains, as well as simple computer simulations in MATLAB{{< sup "®" >}}. These, too, will be taught from scratch; no prior experience with differential equations or computer programming is required.
 
 The class will cover readings from other fields, such as research papers on animal behavior, experiments in economics and psychology, popular culture books on evolutionary biology, and essays by philosophers. Again, no background in these areas are required.
 
@@ -40,7 +44,7 @@ Advanced students may prefer Osborne's graduate text:
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650403) Osborne, Martin, J., and Ariel Rubinstein. _A Course In Game Theory_. MIT Press, 1994. ISBN: 9780262650403. \[Preview with [Google Books](http://books.google.com/books?id=5ntdaYX4LPkC&printsec=frontcover)\]
 
-Additional readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section. 
+Additional readings can be found in the {{% resource_link 8c169bbe-cca1-09b7-9f73-1141e65fbd23 "Readings" %}} section. 
 
 Grading
 -------
