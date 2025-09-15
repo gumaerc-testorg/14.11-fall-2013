@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource file contains information regarding problem set 1.\r\n\
   \r\n"
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/e7ac092492c191adfbeff6ceb3480231_MIT14_11F13_Prob_set_1.pdf
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/e7ac092492c191adfbeff6ceb3480231_MIT14_11F13_Prob_set_1.pdf
+file_size: 102407
 file_type: application/pdf
 learning_resource_types:
 - Assignments

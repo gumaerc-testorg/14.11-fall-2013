@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource file contains information regarding sex ratios and the\
   \ power of game theory.\r\n\r\n"
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/9dd7c15ab68e191c3cdf1640e9c55f6a_MIT14_11F13_Sex_Ratios.pdf
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/9dd7c15ab68e191c3cdf1640e9c55f6a_MIT14_11F13_Sex_Ratios.pdf
+file_size: 1168243
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

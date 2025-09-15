@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: "This resource file contains information regarding altruism.\r\n\r\n"
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/f218d9dba61e843d2c45186da3ae5af9_MIT14_11F13_Altruism.pdf
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/f218d9dba61e843d2c45186da3ae5af9_MIT14_11F13_Altruism.pdf
+file_size: 2766127
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

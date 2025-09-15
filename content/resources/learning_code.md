@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is a special file related to code for evidence for learning topic.
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/86c9e83c7e4bce05c9f768f4a9e7ddd5_learning_code.m
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/86c9e83c7e4bce05c9f768f4a9e7ddd5_learning_code.m
+file_size: 8351
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

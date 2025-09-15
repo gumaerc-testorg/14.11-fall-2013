@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource file contains information regarding evidence for costly\
   \ signaling.\r\n\r\n"
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/fdf316b80dc9714778797ddae8eea2da_MIT14_11F13_evidence_cost.pdf
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/fdf316b80dc9714778797ddae8eea2da_MIT14_11F13_evidence_cost.pdf
+file_size: 1198825
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

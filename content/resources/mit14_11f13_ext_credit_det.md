@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource file contains information regarding extra credit assignment.\r\
   \n\r\n"
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/2c0f2414c249df79c8f2497f45e87098_MIT14_11F13_Ext_Credit_Det.pdf
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/2c0f2414c249df79c8f2497f45e87098_MIT14_11F13_Ext_Credit_Det.pdf
+file_size: 143053
 file_type: application/pdf
 learning_resource_types:
 - Assignments

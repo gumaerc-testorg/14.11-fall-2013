@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource file contains information regarding wright-fisher process.\r\
   \n\r\n"
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/13f85c657aaf6cff84fc10f330543b7a_MIT14_11F13_Wright_Fisher.pdf
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/13f85c657aaf6cff84fc10f330543b7a_MIT14_11F13_Wright_Fisher.pdf
+file_size: 1191424
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

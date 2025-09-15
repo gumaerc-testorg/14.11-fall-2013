@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource file contains information regarding replicator dynamics.\r\
   \n\r\n"
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/41053df6c3272ffa316919640bdf6d58_MIT14_11F13_Replica_dynam.pdf
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/41053df6c3272ffa316919640bdf6d58_MIT14_11F13_Replica_dynam.pdf
+file_size: 1095745
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

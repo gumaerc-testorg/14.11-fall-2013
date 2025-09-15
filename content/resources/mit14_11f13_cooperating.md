@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource file contains information regarding cooperate without\
   \ looking.\r\n\r\n"
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/724e4844563015b4566414708594061a_MIT14_11F13_cooperating.pdf
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/724e4844563015b4566414708594061a_MIT14_11F13_cooperating.pdf
+file_size: 1460805
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

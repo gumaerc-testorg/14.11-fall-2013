@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is a special file related to code for wright-fisher topic.
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/c7cd6431368521e28de8aa1117c10adb_wrightfisher_code.m
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/c7cd6431368521e28de8aa1117c10adb_wrightfisher_code.m
+file_size: 6235
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

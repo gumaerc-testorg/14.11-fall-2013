@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource file contains information regarding introduction slides.\r\
   \n\r\n"
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/efe2e319b855a99822182a40da03a2d5_MIT14_11F13_Intro.pdf
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/efe2e319b855a99822182a40da03a2d5_MIT14_11F13_Intro.pdf
+file_size: 1541965
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource file contains information regarding evidence for learning\
   \ and relationship with nash.\r\n\r\n"
-file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/d3f9f2509ed2edc775b27714ea64da66_MIT14_11F13_Learning.pdf
+file: /ol-ocw-studio-app/courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/d3f9f2509ed2edc775b27714ea64da66_MIT14_11F13_Learning.pdf
+file_size: 947938
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
