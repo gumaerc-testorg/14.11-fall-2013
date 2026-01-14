@@ -31,7 +31,7 @@ For students to learn to see the social world through the lens of game theory. B
 
 ### Requirements Satisfied
 
-- 14.11 can be applied towards a {{% resource_link "037a6103-4fbd-4f7c-aba2-bd0699c338bf" "Bachelor of Science in Economics" %}}, but is not required.
+- 14.11 can be applied towards a [Bachelor of Science in Economics](http://economics.mit.edu/under/majors), but is not required.
 - HASS-S ![](/images/educator/icon-question-hass-s.png)
 
 ### Offered
